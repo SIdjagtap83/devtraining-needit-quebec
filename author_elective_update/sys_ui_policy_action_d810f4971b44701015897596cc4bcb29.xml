@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_what_needed</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-16 05:23:11</sys_created_on>
+        <sys_id>d810f4971b44701015897596cc4bcb29</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d810f4971b44701015897596cc4bcb29</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-16 05:44:24</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="Testing execution time of UI Policy script w.r.t client script">90b960531b44701015897596cc4bcb77</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>31ad28c6dbc3bf8049eac5970596199b</instance_id>
+        <instance_name>dev90761</instance_name>
+        <name>sys_ui_policy_action_d810f4971b44701015897596cc4bcb29</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>u_what_needed</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-05-16 05:23:11</sys_created_on><sys_id>d810f4971b44701015897596cc4bcb29</sys_id><sys_mod_count>4</sys_mod_count><sys_name>u_what_needed</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_d810f4971b44701015897596cc4bcb29</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-05-16 05:44:24</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="Testing execution time of UI Policy script w.r.t client script">90b960531b44701015897596cc4bcb77</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-165408397</payload_hash>
+        <record_name>u_what_needed</record_name>
+        <reverted_from/>
+        <source>bdb3db7a1b84301015897596cc4bcbbd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-16 05:44:24</sys_created_on>
+        <sys_id>3125f09b1b44701015897596cc4bcbc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17973b443300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-16 05:44:24</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>7925f09b2d447010f558c0c52d439bc4</update_guid>
+        <update_guid_history>7925f09b2d447010f558c0c52d439bc4:-165408397,5bd2bc1b3a4470102b1fd92426ea632b:-406184209,1822b01b054470108dc70dbe67463fa9:1343699691,4fd0b497544470108a0ca2dcbdbec1cc:502470680,cf407c172f447010ab2b2fbf782c45fa:-1545035840</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-16 05:46:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>0a10db5e7bb743b28069a1f4e10fdb64</sys_id>
+        <sys_metadata>d810f4971b44701015897596cc4bcb29</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="Testing execution time of UI Policy script w.r.t client script">90b960531b44701015897596cc4bcb77</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_d810f4971b44701015897596cc4bcb29</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_d810f4971b44701015897596cc4bcb29">3125f09b1b44701015897596cc4bcbc5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-16 05:46:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
